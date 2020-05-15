@@ -1,7 +1,7 @@
 # Lab: Garage Band with OOP
-![click here to see the .py file](pythonic_garage_band/pythonic_garage_band.py)
+[click here to see the .py file](pythonic_garage_band/pythonic_garage_band.py)
 
-![click here to see the tester file](tests/test_pythonic_garage_band.py)
+[click here to see the tester file](tests/test_pythonic_garage_band.py)
 
 ## Overview
 Creating a Garage Band with Object Oriented Programming.
