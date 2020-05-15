@@ -3,6 +3,8 @@
 
 [click here to see the tester file](tests/test_pythonic_garage_band.py)
 
+[click here to see the PR](https://github.com/PengChen11/pythonic-garage-band/pull/1/files)
+
 ## Overview
 Creating a Garage Band with Object Oriented Programming.
 
